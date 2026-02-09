@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Only for you",
+  "base_artist": "アニスフィア・ウィン・パレッティア（CV：千本木彩花）",
+  "createdAt": "2026-02-09T11:54:27.415856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "Mat Zo feat. Rachel K. Collier",
+      "has_synced": true,
+      "path": "select/01_Only_For_You_Mat_Zo_feat._Rachel_K._Collier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only For You (Feat. Rachel K. Collier)",
+      "artist": "Mat Zo",
+      "has_synced": true,
+      "path": "select/02_Only_For_You_(Feat._Rachel_K._Collier)_Mat_Zo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only for You Only",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/03_Only_for_You_Only_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "Jay-Jay Johanson",
+      "has_synced": true,
+      "path": "select/04_Only_For_You_Jay-Jay_Johanson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only for You",
+      "artist": "ℒund",
+      "has_synced": true,
+      "path": "select/05_Only_for_You_Lund.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely But Only for You",
+      "artist": "K.T. Oslin",
+      "has_synced": false,
+      "path": "select/06_Lonely_But_Only_for_You_K.T._Oslin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For You Only For You",
+      "artist": "Julia Fordham",
+      "has_synced": false,
+      "path": "select/07_For_You_Only_For_You_Julia_Fordham.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Could Be Stronger (but Only for You) (Giuseppe Ottaviani Remix)",
+      "artist": "Gareth Emery",
+      "has_synced": true,
+      "path": "select/08_I_Could_Be_Stronger_(but_Only_for_You)_(Giuseppe_Ottaviani_Remix)_Gareth_Emery.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/09_Only_For_You_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only for You",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/10_Only_for_You_TVXQ!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It’s Only for You",
+      "artist": "Robin Schulz",
+      "has_synced": true,
+      "path": "select/11_It’s_Only_for_You_Robin_Schulz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "Heartless Bastards",
+      "has_synced": false,
+      "path": "select/12_Only_For_You_Heartless_Bastards.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "Ronan Keating",
+      "has_synced": false,
+      "path": "select/13_Only_For_You_Ronan_Keating.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only For You",
+      "artist": "Great Gable",
+      "has_synced": true,
+      "path": "select/14_Only_For_You_Great_Gable.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teeth Only for You",
+      "artist": "Say Hi",
+      "has_synced": false,
+      "path": "select/15_Teeth_Only_for_You_Say_Hi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If Only for One Night",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/16_If_Only_for_One_Night_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If Only For One Night",
+      "artist": "Luther Vandross",
+      "has_synced": false,
+      "path": "select/17_If_Only_For_One_Night_Luther_Vandross.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Only for love",
+      "artist": "Limahl",
+      "has_synced": true,
+      "path": "select/18_Only_for_love_Limahl.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Only For Love - 2009 Remaster",
+      "artist": "Limahl",
+      "has_synced": false,
+      "path": "select/19_Only_For_Love_-_2009_Remaster_Limahl.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "If Only For Tonight (Mono) [2017 Remastered Version]",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/20_If_Only_For_Tonight_(Mono)_[2017_Remastered_Version]_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "If Only for Tonight (Mono; Single Edit; 2017 Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/21_If_Only_for_Tonight_(Mono;_Single_Edit;_2017_Remaster)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "If Only For The Moment",
+      "artist": "Missing Persons",
+      "has_synced": true,
+      "path": "select/22_If_Only_For_The_Moment_Missing_Persons.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "If Only For The Moment - Long Version",
+      "artist": "Missing Persons",
+      "has_synced": false,
+      "path": "select/23_If_Only_For_The_Moment_-_Long_Version_Missing_Persons.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Only for the Stars in Your Eyes",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/24_Only_for_the_Stars_in_Your_Eyes_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Only for the Stars in your Eyes",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/25_Only_for_the_Stars_in_your_Eyes_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Only for the Night",
+      "artist": "Dream Evil",
+      "has_synced": true,
+      "path": "select/26_Only_for_the_Night_Dream_Evil.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "If Only For One Night",
+      "artist": "Brenda Russell",
+      "has_synced": false,
+      "path": "select/27_If_Only_For_One_Night_Brenda_Russell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only for you",
+      "artist": "アニスフィア・ウィン・パレッティア(CV:千本木彩花)、ユフィリア・マゼンタ(CV:石見舞菜香)",
+      "has_synced": false,
+      "path": "select/pl_01_Only_for_you_アニスフィア・ウィン・パレッティア(CV_千本木彩花)、ユフィリア・マゼンタ(CV_石見舞菜香).txt"
+    }
+  ]
+}
